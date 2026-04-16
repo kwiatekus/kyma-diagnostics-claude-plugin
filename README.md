@@ -1,0 +1,1 @@
+# kyma-diagnostics-claude-plugin
