@@ -72,11 +72,7 @@ If an interactive plugin is detected (`kubelogin`, `kubectl-oidc_login`, `oidc-l
 > ```
 > By default valid for **1 hour**. Use `--time` to adjust (e.g. `--time 30m`, `--time 2h`).
 >
-> Then:
-> ```bash
-> export KUBECONFIG=/tmp/diagnostics-kubeconfig-headless.yaml
-> /kyma-diagnose
-> ```"
+> Then set `export KUBECONFIG=/tmp/diagnostics-kubeconfig-headless.yaml` and re-run `/kyma-diagnose`."
 
 If no interactive plugin is found, continue to the next step.
 
