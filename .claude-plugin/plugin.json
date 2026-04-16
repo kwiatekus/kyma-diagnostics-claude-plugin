@@ -1,7 +1,7 @@
 {
-  "name": "kyma-diagnose",
+  "name": "kyma-diagnoser",
   "description": "Diagnose problems on SAP BTP Kyma instances. Runs kyma alpha diagnose commands via dev-toolbox Docker image and performs root cause analysis for administrators and support engineers.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "kwiatekus"
   },
